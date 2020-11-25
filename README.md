@@ -9,8 +9,8 @@ Constantly breaking through and challenging yourselves.
 (https://github.com/YuxuanSun123/F28WP)
 
 # Picrure
-![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/open.PNG?raw=true)
+open![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/open.PNG?raw=true)
 
-![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/in%20the%20game.PNG?raw=true)
+in the game![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/in%20the%20game.PNG?raw=true)
 
 
