@@ -10,6 +10,7 @@ Constantly breaking through and challenging yourselves.
 
 # Picrure
 ![avatar](![](file:///C:\Users\excailbur8\Desktop/open.jpg)
+
 ![avatar](![](file:///C:\Users\excailbur8\Desktop/in the game.jpg)
 
 
