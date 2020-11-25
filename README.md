@@ -9,5 +9,7 @@ Constantly breaking through and challenging yourselves.
 (https://github.com/YuxuanSun123/F28WP)
 
 # Picrure
+![avatar](![](file:///C:\Users\excailbur8\Desktop/open.jpg)
+![avatar](![](file:///C:\Users\excailbur8\Desktop/in the game.jpg)
 
 
