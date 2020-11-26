@@ -37,4 +37,4 @@ This is the online site of our project, you can experience the game directly onl
 Link:[OurWebsite](https://yuxuansun123.github.io/F28WP/)
 
 # Online Game  🏳️‍🌈
-[Ice and Fire](https://github.com/YuxuanSun123/F28WP/tree/master/game)⭐⭐⭐
+[Ice and Fire](https://rqcker.github.io/Ice-Fire_game/)⭐⭐⭐
