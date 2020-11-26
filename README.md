@@ -30,3 +30,11 @@ Then open the folder to run Mongoose.
 Open the game file game in Mongoose.
 At last you can enjoy the game.
 (This is a completely open source game that you can change through JavaScript editors or other editors)
+
+# Another way
+If you do not want to download the software.
+This is the online site of our project, you can experience the game directly online.
+Link:https://yuxuansun123.github.io/F28WP/
+
+# Online Game  
+[Ice and Fire] https://github.com/YuxuanSun123/F28WP/tree/master/game
