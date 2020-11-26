@@ -34,7 +34,7 @@ At last you can enjoy the game.
 # Another way
 If you do not want to download the software.
 This is the online site of our project, you can experience the game directly online.
-Link:https://yuxuansun123.github.io/F28WP/
+Link:[OurWebsite](https://yuxuansun123.github.io/F28WP/)
 
-# Online Game  
-[Ice and Fire] https://github.com/YuxuanSun123/F28WP/tree/master/game
+# Online Game  🏳️‍🌈
+[Ice and Fire](https://rqcker.github.io/Ice-Fire_game/)⭐⭐⭐
