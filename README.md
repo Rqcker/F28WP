@@ -23,3 +23,10 @@ Constantly breaking through and challenging yourselves.
 # Group member
 ### @Rqcker J0hn , @excailbur8 and @YuxunSun123  
 
+# Step help
+If you want to play this game, you need to first download Mongoose free-6.9(in our warehouse).
+After that download the game ontology, unzip the game ontology to the same folder with Mongoose.
+Then open the folder to run Mongoose. 
+Open the game file game in Mongoose.
+At last you can enjoy the game.
+(This is a completely open source game that you can change through JavaScript editors or other editors)
