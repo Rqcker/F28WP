@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html manifest="offline.appcache">
 <head>
 <meta charset="UTF-8" />
@@ -37,9 +37,9 @@
 <body>
 <div id="fb-root"></div>
 <script>
-	// Issue a warning if trying to preview an exported project on disk.
+	// If you preview the exported project on disk, a warning will be issued.
 	(function(){
-		// Check for running exported on file protocol
+		// Check whether to run export on file protocol.
 		if (window.location.protocol.substr(0, 4) === "file")
 		{
 			alert("Exported games won't work until you upload them. (When running on the file:/// protocol, browsers block many features from working for security reasons.)");
@@ -59,14 +59,13 @@
 <script src="jquery-2.1.1.min.js"></script>
 <script src="c2runtime.js"></script>
 <script>
-		// Start the Construct 2 project running on window load.
+		// Construct 2 project running when the startup window loads.
 		jQuery(document).ready(function ()
 		{			
-			// Create new runtime using the c2canvas
 			cr_createRuntime("c2canvas");
 		});
 		
-		// Pause and resume on page becoming visible/invisible
+		// Pause and resume page display or non-display.
 		function onVisibilityChanged() {
 			if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden)
 				cr_setSuspended(true);
@@ -81,7 +80,7 @@
 		
 		if (navigator.serviceWorker && navigator.serviceWorker.register)
 		{
-			// Register an empty service worker to trigger web app install banners.
+			// Register an empty server to trigger the web application installation banner.
 			navigator.serviceWorker.register("sw.js", { scope: "./" });
 		}
     </script>
