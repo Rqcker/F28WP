@@ -6,7 +6,14 @@ Improve your score limit by picking up ice flowers to buy items or new skins.
 Constantly breaking through and challenging yourselves.
 
 # Link
-(https://github.com/YuxuanSun123/F28WP)
+(https://github.com/YuxuanSun123/F28WP)  
+
+### Dear friends 😄 wish to have a 3-click on the right side Watch 👀 Star ⭐ Fork 🍴 support it
+
+- 🏳️‍🌈 Group member [F28WP Mahjong](https://github.com/YuxuanSun123/F28WP)
+- ⬇️ Wiki [All versions](https://github.com/YuxuanSun123/F28WP/wiki)
+- ❓ Common problem [Q&A](https://github.com/YuxuanSun123/F28WP/issues)
+- 🐛 Bug submit [FAQ](https://github.com/YuxuanSun123/F28WP/issues)
 
 # Picrure
 ### The main page of the game![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/open.PNG?raw=true)
@@ -14,4 +21,5 @@ Constantly breaking through and challenging yourselves.
 ### The game is in progress![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/in%20the%20game.PNG?raw=true)
 
 # Group member
-###Rqcker J0hn ,excailbur8 and YuxunSun123
+### @Rqcker J0hn , @excailbur8 and @YuxunSun123  
+
