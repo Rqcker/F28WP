@@ -20,10 +20,10 @@ Constantly breaking through and challenging yourselves.
 
 ### The game is in progress![avatar](https://github.com/YuxuanSun123/F28WP/blob/master/in%20the%20game.PNG?raw=true)
 
-# Group member
+# Group member🐛
 ### @Rqcker J0hn , @excailbur8 and @YuxunSun123  
 
-# Step help
+# ❓Step help
 If you want to play this game, you need to first download Mongoose free-6.9(in our warehouse).
 After that download the game ontology, unzip the game ontology to the same folder with Mongoose.
 Then open the folder to run Mongoose. 
@@ -31,7 +31,7 @@ Open the game file game in Mongoose.
 At last you can enjoy the game.
 (This is a completely open source game that you can change through JavaScript editors or other editors)  
 This is a demonstration guide video for compiling the source code using the editor:   
-https://youtu.be/rASG-TVXvFc   
+❓[Demo Video](https://youtu.be/rASG-TVXvFc)   
 Hope it can help ！
 
 # Another way
