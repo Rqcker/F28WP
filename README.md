@@ -29,7 +29,10 @@ After that download the game ontology, unzip the game ontology to the same folde
 Then open the folder to run Mongoose. 
 Open the game file game in Mongoose.
 At last you can enjoy the game.
-(This is a completely open source game that you can change through JavaScript editors or other editors)
+(This is a completely open source game that you can change through JavaScript editors or other editors)  
+This is a demonstration guide video for compiling the source code using the editor:   
+https://youtu.be/rASG-TVXvFc   
+Hope it can help ！
 
 # Another way
 If you do not want to download the software.
